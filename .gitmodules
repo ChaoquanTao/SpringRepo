@@ -1,0 +1,3 @@
+[submodule "SpringMVCV_HelloWorld"]
+	path = SpringMVCV_HelloWorld
+	url = https://github.com/ChaoquanTao/SpringMVC_HelloWorld.git
